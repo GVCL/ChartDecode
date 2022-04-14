@@ -1,0 +1,1 @@
+The plot depicts a Simple Line Graph illustrating ratio of value of imports to exports by a company. The plot is between num ofpeople on y-axis over month on the x-axis. The num ofpeople of has it maximum and minmum values 19 and 10 at 2000, and 2005 respectively. The overall mean and standard deviation values of num ofpeople are 15.15 and 3.0 respectively.

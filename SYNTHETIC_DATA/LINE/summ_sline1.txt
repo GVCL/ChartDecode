@@ -1,0 +1,1 @@
+The plot depicts a Simple Line Graph illustrating bear population in emerald forest. The plot is between population c thousands on y-axis over year on the x-axis. The population c thousands of has it maximum and minmum values 11 and 5 at 1929, and 2000 respectively. The overall mean and standard deviation values of population c thousands are 7.45 and 1.78 respectively.

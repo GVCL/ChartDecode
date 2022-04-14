@@ -1,0 +1,1 @@
+The plot depicts a Simple Line Graph illustrating co2 emissions over decade. The plot is between co2 emissionsigkmi on y-axis over year on the x-axis. The co2 emissionsigkmi of has it maximum and minmum values 263 and 140 at 1999, and 1993 respectively. The overall mean and standard deviation values of co2 emissionsigkmi are 227.17 and 31.72 respectively.
